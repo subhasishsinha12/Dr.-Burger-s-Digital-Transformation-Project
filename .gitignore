@@ -1,0 +1,190 @@
+# Dr. Burger's Digital Transformation Project .gitignore
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+logs/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.classpath
+.settings/
+*.sublime-workspace
+*.sublime-project
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Node.js
+node_modules/
+dist/
+build/
+coverage/
+.npm
+.yarn-integrity
+.env
+.env.test
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# React / Frontend
+/app/*/node_modules/
+/app/*/build/
+/app/*/dist/
+/web/*/node_modules/
+/web/*/build/
+/web/*/dist/
+.cache/
+/public/dist/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+replay_pid*
+target/
+.mvn/wrapper/maven-wrapper.jar
+.gradle/
+build/
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraformrc
+terraform.rc
+*.tfvars
+
+# Kubernetes
+kubeconfig
+*.kubeconfig
+
+# Database
+*.sqlite
+*.sqlite3
+*.db
+
+# Package files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Certificate and key files
+*.pem
+*.key
+*.crt
+*.cer
+*.p12
+
+# Credentials and secrets - extra precaution
+*credential*
+*secret*
+*password*
+*token*
+*auth*
+!*template*
+!*example*
+!*sample*
+
+# Testing
+/coverage/
+.nyc_output/
+.jest-*
+
+# Documentation build
+/docs/*/build/
+/docs/*/generated/
+
+# Temporary files
+tmp/
+temp/
+.tmp
+.temp
+*.tmp
+*.temp
+*.bak
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
+# ML model checkpoints and large data files
+*.h5
+*.hdf5
+*.pkl
+*.ckpt
+*.model
+.ipynb_checkpoints/
+
+# Analytics data exports
+*.csv
+*.xls
+*.xlsx
+*.parquet
+data/sample-datasets/*.csv
+!data/sample-datasets/sample-*.csv
+
+# Project specific
+config.local.js
+credentials.json
+firebase-admin-sdk.json
+.firebaserc
+firebase-debug.log
+serviceAccountKey.json
+bugsnag.js
+sentry.js
+
+# Keep .gitkeep files
+!.gitkeep
