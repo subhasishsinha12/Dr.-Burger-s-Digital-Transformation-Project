@@ -25,7 +25,7 @@ Our transformation is built on four key pillars:
 
 ### 1. Platform-Based Revenue Model
 
-- **"Dr. Burger Prime" subscription** (Rs 1999.00/month) with free delivery, discounts, and exclusive content
+- **"Dr. Burger Prime" subscription** ($9.99/month) with free delivery, discounts, and exclusive content
 - **Marketplace integration** with complementary food vendors
 - **Ethical data monetization** providing market insights to partners
 - **Dynamic pricing** based on demand, inventory, and customer segments
