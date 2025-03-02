@@ -389,6 +389,30 @@ By 2027, Dr. Burger aims to reach **Leading** maturity status, with advanced dig
    - Risk: Increased data exposure and compliance requirements
    - Mitigation: Security-by-design approach and dedicated compliance resources
 
+## Digital Maturity Map
+
+| Dimension | Current Level (2025) | Target Level (2027) | Gap |
+|-----------|:--------------------:|:-------------------:|:---:|
+| Customer Experience | 2 (Emerging) | 4 (Leading) | ●●○○ |
+| Operations & Supply Chain | 2 (Emerging) | 4 (Leading) | ●●○○ |
+| Data & Analytics | 1 (Initial) | 4 (Leading) | ●●●○ |
+| Technology Architecture | 2 (Emerging) | 4 (Leading) | ●●○○ |
+| Organization & Culture | 2 (Emerging) | 4 (Leading) | ●●○○ |
+| Innovation & Strategy | 2 (Emerging) | 4 (Leading) | ●●○○ |
+
+**Maturity Level Legend:**
+- Level 1: **Initial** - Basic digital capabilities, primarily reactive
+- Level 2: **Emerging** - Developing digital capabilities with limited coordination
+- Level 3: **Established** - Coordinated digital capabilities driving business outcomes
+- Level 4: **Leading** - Advanced digital capabilities creating competitive advantage
+- Level 5: **Transformative** - Industry-leading digital capabilities enabling new business models
+
+**Key Gaps by Dimension:**
+1. **Data & Analytics** (Critical Gap) - No centralized data strategy, siloed data, limited analytics
+2. **Organization & Culture** (Moderate Gap) - Traditional structure, limited digital skills, siloed departments
+3. **Technology Architecture** (Moderate Gap) - Limited API ecosystem, legacy systems, minimal integration
+4. **Customer Experience** (Minor Gap) - Basic app, disconnected channels, limited personalization
+
 ## Conclusion
 
 Dr. Burger's digital maturity assessment reveals significant opportunities to leverage digital capabilities for business growth and competitive advantage. By systematically advancing across the six dimensions of digital maturity, we can transform from an **Emerging** digital business to a **Leading** one within 24 months.
