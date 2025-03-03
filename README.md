@@ -128,9 +128,9 @@ The transformation is led by cross-functional teams organized around key capabil
 
 ## Contact Information
 
-- Project Lead: Sarah Johnson (sarah.johnson@drburger.com)
-- Technical Director: David Chen (david.chen@drburger.com)
-- Digital Innovation Officer: Miguel Rodriguez (miguel.rodriguez@drburger.com)
+- Project Lead: Atul Vijay (atul.vijay@drburger.com)
+- Technical Director: Sandipan Ghosh (sandipan.ghosh@drburger.com)
+- Digital Innovation Officer: Darpan Sah (darpan.sah@drburger.com)
 
 ## License
 
