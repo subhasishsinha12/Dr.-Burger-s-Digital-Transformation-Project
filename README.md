@@ -1,6 +1,6 @@
 # Dr. Burger's Digital Transformation Project
 
-![Dr. Burger Logo](./docs/presentations/visualizations/dr-burger-logo.png)
+![Dr Burger Logo](https://github.com/user-attachments/assets/d5a07bcb-f26c-4ab8-83e7-6935e1473a5a)
 
 ## Vision
 
