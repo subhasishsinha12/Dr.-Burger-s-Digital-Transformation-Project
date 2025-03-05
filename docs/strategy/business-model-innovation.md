@@ -4,6 +4,8 @@
 
 This document outlines the business model innovation strategy for Dr. Burger's digital transformation. We aim to evolve from a traditional restaurant-centric business to a digital food service platform that creates multiple value streams, deepens customer relationships, and unlocks new growth opportunities through technology and partnerships.
 
+![MindMap_Dr.Bruger](/visuals/presentation/Flowchart.jpg)
+
 ## Current vs. Future Business Model
 
 ### Current State
